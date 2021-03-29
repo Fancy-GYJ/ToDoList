@@ -187,7 +187,7 @@ pyecharts-snapshot==0.2.0
 pyee==6.0.0
 pyflakes==2.0.0
 pygame==1.9.6
-Pygments==2.3.1
+Pygments==2.7.4
 PyHamcrest==1.9.0
 pylint==2.2.2
 PyMySQL==0.9.3
